@@ -1,0 +1,2 @@
+D:\java\JavaPassion\ANDROID\android_contentprovider\samples\ContentProvider_List_CPs\app\build\intermediates\classes\debug
+D:\java\JavaPassion\ANDROID\android_contentprovider\samples\ContentProvider_List_CPs\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-b00df22e95abb7626732765f65be96814918b056.jar
