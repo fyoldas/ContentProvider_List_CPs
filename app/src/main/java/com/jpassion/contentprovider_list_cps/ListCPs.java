@@ -29,6 +29,8 @@ public class ListCPs extends ListActivity {
 		// setListAdaptor(..) is a method of ListActivity.
 		setListAdapter(arrayAdapter);
 
+        // fyoldas added some comment
+
 	}
 
 	@Override
